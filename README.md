@@ -1,7 +1,6 @@
-# Aprendendo os principais comandos do GIT
+# GIT/GITHUB 
 
-Este repositório é destinado ao aprendizado básico dos principais comandos do Git/GitHUb
-Aqui você aprenderá:
+Este repositório é destinado ao aprendizado sobre os principais comandos Git/GitHUb.
 
 ## Visão Geral do Git
 
