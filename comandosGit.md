@@ -1,7 +1,7 @@
 # GIT/GITHUB 
 
 * [Comando git init](#gitInit) 🔗
-* [Comando git branch](#gitBranch)🔗
+* [Comando git branch](./gitBranch/gitBranch.md)🔗
 * [Comando git config](#gitConfig) 🔗
 * [Comando git log](#gitlog) 🔗
 * [Comando git status](#gitStatus) 🔗
