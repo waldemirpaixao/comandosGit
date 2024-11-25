@@ -14,4 +14,4 @@ Caso não exista a branch remota: será criada uma branch remotra traqueada (ras
 
 Veja o resulta abaixo após digitar o comando
 
-![resultado-gitpush-u]()
+![resultado-gitpush-u](resultado-gitpush-u.png)
