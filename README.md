@@ -12,10 +12,9 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 
 * Iniciando o git localmente: **git init**
 * Configuração: **git config**
-* Criando branches: **git branch**
-  * Mudar o nome da branche **git branch -m**
-* Mudandos de branches: [**git checkout**](./gitCheckout/gitCheckout.md)
-* Mudandos de branches: **git switch**
+* Entendendo branches: [**git branch**](./gitBranch/gitBranch.md)
+* Entendendo chekout: [**git checkout**](./gitCheckout/gitCheckout.md)
+* Entendendo de switch: **git switch**
   * Diferença entre: **git checkout e git switch**
 * Acessando logs: **git log**
 * Vendo o estatus de mudanças: **git status**
