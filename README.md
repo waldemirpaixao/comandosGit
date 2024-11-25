@@ -21,6 +21,7 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 * Vendo o estatus de mudanças: **git status**
 * Adicionando arquivo novos e modificados: **git add**
 * Efetivando arqivos novos e modificados: **git commit**
+* Mesclando arquivos: [**git merge**](./gitMerge/gitMerge.md)
 
 ## Nível Especialista
 

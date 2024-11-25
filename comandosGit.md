@@ -7,6 +7,7 @@
 * [Comando git status](#gitStatus) 🔗
 * [Comando git add](#gitAdd) 🔗
 * [Comando git commit](#gitcomit) 🔗
+* [Comando git merge](./gitMerge/gitMerge.md) 🔗
 * [Comando git push](#gitpush) 🔗
 * [Comando git pull](#gitpull) 🔗
 
