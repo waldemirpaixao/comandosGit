@@ -1,7 +1,7 @@
 # GIT/GITHUB 
 
 * [Comando git init](#gitInit) 🔗
-* [Comando git branch](#gitbBranch) 🔗
+* [Comando git branch](./gitPush/gitPush.md) 🔗
 * [Comando git config](#gitConfig) 🔗
 * [Comando git log](#gitlog) 🔗
 * [Comando git status](#gitStatus) 🔗
@@ -10,7 +10,6 @@
 * [Comando git push](#gitpush) 🔗
 * [Comando git pull](#gitpull) 🔗
 
-`<a id="gitInit"></a>`
 
 ### Comando git init
 

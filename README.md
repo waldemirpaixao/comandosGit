@@ -1,4 +1,4 @@
-# GIT/GITHUB 
+# GIT/GITHUB
 
 Este repositório é destinado ao aprendizado sobre os principais comandos Git/GitHUb.
 
@@ -14,7 +14,8 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 * Configuração: **git config**
 * Criando branches: **git branch**
   * Mudar o nome da branche **git branch -m**
-* Mudandos de branches: **git checkout** / **git switch**
+* Mudandos de branches: [**git checkout**](./gitCheckout/gitCheckout.md)
+* Mudandos de branches: **git switch**
   * Diferença entre: **git checkout e git switch**
 * Acessando logs: **git log**
 * Vendo o estatus de mudanças: **git status**
@@ -25,5 +26,5 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 
 * Criando conta no **GitHub**
 * Adicionado repositório remoto **git add remote**
-* Enviando para o repositório: **git push**
+* Enviando para o repositório: [**git push**](./gitPush/gitPush.md)
 * Trazendo dados do repositório **git pull**
