@@ -10,7 +10,6 @@
 * [Comando git push](#gitpush) 🔗
 * [Comando git pull](#gitpull) 🔗
 
-<a id="gitInit"></a>
 
 ### Comando git init
 

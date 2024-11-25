@@ -12,7 +12,7 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 
 * Iniciando o git localmente: **git init**
 * Configuração: **git config**
-* Criando branches: [**git branch**](./gitPush/gitPush.md)
+* Criando branches: **git branch**
   * Mudar o nome da branche **git branch -m**
 * Mudandos de branches: [**git checkout**](./gitCheckout/gitCheckout.md)
 * Mudandos de branches: **git switch**
@@ -26,5 +26,5 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 
 * Criando conta no **GitHub**
 * Adicionado repositório remoto **git add remote**
-* Enviando para o repositório: **git push**
+* Enviando para o repositório: [**git push**](./gitPush/gitPush.md)
 * Trazendo dados do repositório **git pull**
