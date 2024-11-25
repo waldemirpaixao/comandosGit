@@ -1,14 +1,14 @@
 # GIT/GITHUB 
 
 * [Comando git init](#gitInit) 🔗
-* [Comando git branch](./gitPush/gitPush.md) 🔗
+* [Comando git branch](#gitBranch)🔗
 * [Comando git config](#gitConfig) 🔗
 * [Comando git log](#gitlog) 🔗
 * [Comando git status](#gitStatus) 🔗
 * [Comando git add](#gitAdd) 🔗
 * [Comando git commit](#gitcomit) 🔗
 * [Comando git merge](./gitMerge/gitMerge.md) 🔗
-* [Comando git push](#gitpush) 🔗
+* [Comando git push](./gitPush/gitPush.md)  🔗
 * [Comando git pull](#gitpull) 🔗
 
 
