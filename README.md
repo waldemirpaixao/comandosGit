@@ -27,4 +27,4 @@ Este repositório é destinado ao aprendizado sobre os principais comandos Git/G
 * Criando conta no **GitHub**
 * Adicionado repositório remoto **git add remote**
 * Enviando para o repositório: [**git push**](./gitPush/gitPush.md)
-* Trazendo dados do repositório **git pull**
+* Trazendo dados do repositório **git pull** 
