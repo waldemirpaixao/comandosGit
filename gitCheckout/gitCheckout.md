@@ -10,4 +10,4 @@ Mudança de branch local
 
 Mudar para a branch remota que já existente
 
-* **git checkout -b [branch remota com o mesmo nome da branch local]**
+* **git checkout -b [branch local] origin/[branch remota]**
